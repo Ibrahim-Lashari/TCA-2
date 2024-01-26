@@ -1,36 +1,298 @@
 {
     "schedule": [
         {
+            "student_name": "Ibrahim Lashari",
             "days": [
-                "Monday",
-                "Wednesday",
-                "Friday"
+                "A",
+                "B",
+                "C",
+                "E",
+                "F"
             ],
-            "class_name": "Cyber Security",
-            "room_number": "E202",
-            "teacher_name": "Ms. Rehwinkel"
+            "class_name": "Physics",
+            "room_number": "D208",
+            "teacher_name": "Mr. Son",
+            "wing": "D-wing"
         },
         {
+            "student_name": "Ibrahim Lashari",
             "days": [
-                "Tuesday",
-                "Wednesday",
-                "Thursday"
+                "A",
+                "B",
+                "D",
+                "E",
+                "F"
             ],
-            "class_name": "Biology",
-            "room_number": "D201",
-            "teacher_name": "Ms. Tsakiris"
+            "class_name": "Gym",
+            "room_number": "Main Gym",
+            "teacher_name": "Ms. Hazel",
+            "wing": "C-wing"
         },
         {
+            "student_name": "Ibrahim Lashari",
             "days": [
-                "Monday",
-                "Tuesday",
-                "Wednesday",
-                "Thursday",
-                "Friday"
+                "A",
+                "C",
+                "D",
+                "E",
+                "G"
+            ],
+            "class_name": "Calculus",
+            "room_number": "A211",
+            "teacher_name": "Mrs. Andrews",
+            "wing": "A-wing"
+        },
+        {
+            "student_name": "Ibrahim Lashari",
+            "days": [
+                "B",
+                "C",
+                "D",
+                "F",
+                "G"
+            ],
+            "class_name": "Cybersecurity",
+            "room_number": "A234",
+            "teacher_name": "Mrs. Rehwinkel",
+            "wing": "A-wing"
+        },
+        {
+            "student_name": "Ibrahim Lashari",
+            "days": [
+                "A",
+                "B",
+                "D",
+                "E",
+                "G"
+            ],
+            "class_name": "English",
+            "room_number": "A123",
+            "teacher_name": "Mrs. Rivera",
+            "wing": "A-wing"
+        },
+        {
+            "student_name": "Ibrahim Lashari",
+            "days": [
+                "A",
+                "C",
+                "D",
+                "F",
+                "G"
+            ],
+            "class_name": "Art",
+            "room_number": "D101",
+            "teacher_name": "Mrs. Fraser",
+            "wing": "D-wing"
+        },
+        {
+            "student_name": "Ibrahim Lashari",
+            "days": [
+                "B",
+                "C",
+                "E",
+                "F",
+                "G"
             ],
             "class_name": "Web Design",
-            "room_number": "B110",
-            "teacher_name": "Ms. Leonard"
+            "room_number": "B111",
+            "teacher_name": "Mr. Kilgore",
+            "wing": "B-wing"
+        },
+        {
+            "student_name": "Ryan Chung",
+            "days": [
+                "A",
+                "B",
+                "C",
+                "E",
+                "F"
+            ],
+            "class_name": "Physics",
+            "room_number": "D208",
+            "teacher_name": "Mr. Son",
+            "wing": "D-wing"
+        },
+        {
+            "student_name": "Ryan Chung",
+            "days": [
+                "A",
+                "B",
+                "D",
+                "E",
+                "F"
+            ],
+            "class_name": "Gym",
+            "room_number": "Main Gym",
+            "teacher_name": "Ms. Hazel",
+            "wing": "C-wing"
+        },
+        {
+            "student_name": "Ryan Chung",
+            "days": [
+                "A",
+                "C",
+                "D",
+                "E",
+                "G"
+            ],
+            "class_name": "Calculus",
+            "room_number": "A211",
+            "teacher_name": "Mrs. Andrews",
+            "wing": "A-wing"
+        },
+        {
+            "student_name": "Ryan Chung",
+            "days": [
+                "B",
+                "C",
+                "D",
+                "F",
+                "G"
+            ],
+            "class_name": "Cybersecurity",
+            "room_number": "A234",
+            "teacher_name": "Mrs. Rehwinkel",
+            "wing": "A-wing"
+        },
+        {
+            "student_name": "Ryan Chung",
+            "days": [
+                "A",
+                "B",
+                "D",
+                "E",
+                "G"
+            ],
+            "class_name": "English",
+            "room_number": "A123",
+            "teacher_name": "Mrs. Rivera",
+            "wing": "A-wing"
+        },
+        {
+            "student_name": "Ryan Chung",
+            "days": [
+                "A",
+                "C",
+                "D",
+                "F",
+                "G"
+            ],
+            "class_name": "Art",
+            "room_number": "D101",
+            "teacher_name": "Mrs. Fraser",
+            "wing": "D-wing"
+        },
+        {
+            "student_name": "Ryan Chung",
+            "days": [
+                "B",
+                "C",
+                "E",
+                "F",
+                "G"
+            ],
+            "class_name": "Web Design",
+            "room_number": "B111",
+            "teacher_name": "Mr. Kilgore",
+            "wing": "B-wing"
+        },
+        {
+            "student_name": "Daniel Harianto",
+            "days": [
+                "A",
+                "B",
+                "C",
+                "E",
+                "F"
+            ],
+            "class_name": "Physics",
+            "room_number": "D208",
+            "teacher_name": "Mr. Son",
+            "wing": "D-wing"
+        },
+        {
+            "student_name": "Daniel Harianto",
+            "days": [
+                "A",
+                "B",
+                "D",
+                "E",
+                "F"
+            ],
+            "class_name": "Gym",
+            "room_number": "Main Gym",
+            "teacher_name": "Ms. Hazel",
+            "wing": "C-wing"
+        },
+        {
+            "student_name": "Daniel Harianto",
+            "days": [
+                "A",
+                "C",
+                "D",
+                "E",
+                "G"
+            ],
+            "class_name": "Calculus",
+            "room_number": "A211",
+            "teacher_name": "Mrs. Andrews",
+            "wing": "A-wing"
+        },
+        {
+            "student_name": "Daniel Harianto",
+            "days": [
+                "B",
+                "C",
+                "D",
+                "F",
+                "G"
+            ],
+            "class_name": "Cybersecurity",
+            "room_number": "A234",
+            "teacher_name": "Mrs. Rehwinkel",
+            "wing": "A-wing"
+        },
+        {
+            "student_name": "Daniel Harianto",
+            "days": [
+                "A",
+                "B",
+                "D",
+                "E",
+                "G"
+            ],
+            "class_name": "English",
+            "room_number": "A123",
+            "teacher_name": "Mrs. Rivera",
+            "wing": "A-wing"
+        },
+        {
+            "student_name": "Daniel Harianto",
+            "days": [
+                "A",
+                "C",
+                "D",
+                "F",
+                "G"
+            ],
+            "class_name": "Art",
+            "room_number": "D101",
+            "teacher_name": "Mrs. Fraser",
+            "wing": "D-wing"
+        },
+        {
+            "student_name": "Daniel Harianto",
+            "days": [
+                "B",
+                "C",
+                "E",
+                "F",
+                "G"
+            ],
+            "class_name": "Web Design",
+            "room_number": "B111",
+            "teacher_name": "Mr. Kilgore",
+            "wing": "B-wing"
         }
     ]
 }
